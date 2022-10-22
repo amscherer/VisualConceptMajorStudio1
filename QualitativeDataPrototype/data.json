@@ -1,206 +1,122 @@
 [
    {
       "Country": "Albania",
-      "Riskone": "Senior poverty",
-      "Risktwo": "Widowhood",
-      "Riskthree": "Single motherhood",
-      "Riskfour": "Maternity related income risks"
+      "Risks": "Heightened risk of old age poverty;Widowhood;Single motherhood;Maternity related income risks;"
    },
    {
       "Country": "Argentina",
-      "Riskone": "Education",
-      "Risktwo": "Adolescent motherhood",
-      "Riskthree": "Maternity related health risks",
-      "Riskfour": "Maternity related income risks",
-      "Riskfive": "Single motherhood"
+      "Risks": "Barriers to girls’ education;Teenage pregnancy/adolescent motherhood;Maternity related health risks;Maternity related income risks;Single motherhood;"
    },
    {
       "Country": "Bangladesh",
-      "Riskone": "Nonconsentual marriage",
-      "Risktwo": "Barriers to girls education",
-      "Riskthree": "Adolescent motherhood",
-      "Riskfour": "Maternity related health risks",
-      "Riskfive": "Maternity related income risks",
-      "Risksix": "Single motherhood",
-      "Riskseven": "Widowhood",
-      "Riskeight": "Senior poverty"
+      "Risks": "Child/early/forced marriage;Barriers to girls’ education;Teenage pregnancy/adolescent motherhood;Maternity related health risks;Maternity related income risks;Single motherhood;Widowhood;Heightened risk of old age poverty;"
    },
    {
       "Country": "Barbados MCO",
-      "Riskone": "Education",
-      "Risktwo": "Single motherhood",
-      "Riskthree": "Senior poverty",
-      "Riskfour": "Maternity related income risks"
+      "Risks": "Barriers to girls’ education;Single motherhood;Heightened risk of old age poverty;Maternity related income risks;"
    },
    {
       "Country": "Brazil",
-      "Riskone": "Adolescent motherhood",
-      "Risktwo": "Maternity related health risks",
-      "Riskthree": "Single motherhood"
+      "Risks": "Teenage pregnancy/adolescent motherhood;Maternity related health risks;Single motherhood;"
    },
    {
       "Country": "Cambodia",
-      "Riskone": "Maternity related health risks",
-      "Risktwo": "Senior poverty"
+      "Risks": "Maternity related health risks;Heightened risk of old age poverty;"
    },
    {
       "Country": "Chile",
-      "Riskone": "Senior poverty"
+      "Risks": "Heightened risk of old age poverty;"
    },
    {
       "Country": "Costa Rica",
-      "Riskone": "Education",
-      "Risktwo": "Adolescent motherhood",
-      "Riskthree": "Maternity related health risks",
-      "Riskfour": "Maternity related income risks",
-      "Riskfive": "Single motherhood",
-      "Risksix": "Senior poverty"
+      "Risks": "Barriers to girls’ education;Teenage pregnancy/adolescent motherhood;Maternity related health risks;Maternity related income risks;Single motherhood;Heightened risk of old age poverty;"
    },
    {
       "Country": "Ecuador",
-      "Riskone": "Maternity related income risks",
-      "Risktwo": "Education",
-      "Riskthree": "Senior poverty"
+      "Risks": "Maternity related income risks;Barriers to girls’ education;Heightened risk of old age poverty;"
    },
    {
       "Country": "Gabon",
-      "Riskone": "Education",
-      "Risktwo": "Adolescent motherhood",
-      "Riskthree": "Maternity related health risks"
+      "Risks": "Barriers to girls’ education;Teenage pregnancy/adolescent motherhood;Maternity related health risks;"
    },
    {
       "Country": "Georgia",
-      "Riskone": "Maternity related health risks"
+      "Risks": "Maternity related health risks;"
    },
    {
       "Country": "Indonesia",
-      "Riskone": "Nonconsentual marriage",
-      "Risktwo": "Education",
-      "Riskthree": "Senior poverty"
+      "Risks": "Child/early/forced marriage;Barriers to girls’ education;Heightened risk of old age poverty;"
    },
    {
       "Country": "Kenya",
-      "Riskone": "Education",
-      "Risktwo": "Maternity related health risks",
-      "Riskthree": "Maternity related income risks",
-      "Riskfour": "Senior poverty"
+      "Risks": "Barriers to girls’ education;Maternity related health risks;Maternity related income risks;Heightened risk of old age poverty;"
    },
    {
       "Country": "Lao PDR",
-      "Riskone": "Maternity related health risks",
-      "Risktwo": "Maternity related income risks",
-      "Riskthree": "Single motherhood"
+      "Risks": "Maternity related health risks;Maternity related income risks;Single motherhood;"
    },
    {
       "Country": "Lebanon",
-      "Riskone": "Nonconsentual marriage",
-      "Risktwo": "Education",
-      "Riskthree": "Adolescent motherhood",
-      "Riskfour": "Maternity related health risks",
-      "Riskfive": "Maternity related income risks",
-      "Risksix": "Single motherhood",
-      "Riskseven": "Widowhood",
-      "Riskeight": "Senior poverty"
+      "Risks": "Child/early/forced marriage;Barriers to girls’ education;Teenage pregnancy/adolescent motherhood;Maternity related health risks;Maternity related income risks;Single motherhood;Widowhood;Heightened risk of old age poverty;"
    },
    {
       "Country": "Malawi",
-      "Riskone": "Maternity related health risks",
-      "Risktwo": "Maternity related income risks",
-      "Riskthree": "Senior poverty"
+      "Risks": "Maternity related health risks;Maternity related income risks;Heightened risk of old age poverty;"
    },
    {
       "Country": "Mauritania",
-      "Riskone": "Nonconsentual marriage",
-      "Risktwo": "Education",
-      "Riskthree": "Adolescent motherhood"
+      "Risks": "Child/early/forced marriage;Barriers to girls’ education;Teenage pregnancy/adolescent motherhood;"
    },
    {
       "Country": "Mexico",
-      "Riskone": "Maternity related health risks",
-      "Risktwo": "Maternity related income risks",
-      "Riskthree": "Senior poverty"
+      "Risks": "Maternity related health risks;Maternity related income risks;Heightened risk of old age poverty;"
    },
    {
       "Country": "Montenegro",
-      "Riskone": "Nonconsentual marriage",
-      "Risktwo": "Maternity related health risks"
+      "Risks": "Child/early/forced marriage;Maternity related health risks;"
    },
    {
       "Country": "Nigeria",
-      "Riskone": "Education",
-      "Risktwo": "Adolescent motherhood",
-      "Riskthree": "Maternity related health risks",
-      "Riskfour": "Maternity related income risks",
-      "Riskfive": "Single motherhood",
-      "Risksix": "Senior poverty"
+      "Risks": "Barriers to girls’ education;Teenage pregnancy/adolescent motherhood;Maternity related health risks;Maternity related income risks;Single motherhood;Heightened risk of old age poverty;"
    },
    {
       "Country": "Philippines",
-      "Riskone": "Maternity related health risks"
+      "Risks": "Maternity related health risks;"
    },
    {
       "Country": "Republic of Congo",
-      "Riskone": "Education",
-      "Risktwo": "Single motherhood",
-      "Riskthree": "Senior poverty"
+      "Risks": "Barriers to girls’ education;Single motherhood;Heightened risk of old age poverty;"
    },
    {
       "Country": "Rwanda",
-      "Riskone": "Teenage pregnancy",
-      "Risktwo": "Maternity related income risks",
-      "Riskthree": "Single motherhood",
-      "Riskfour": "Widowhood",
-      "Riskfive": "Senior poverty"
+      "Risks": "Teenage pregnancy/adolescent motherhood;Maternity related income risks;Single motherhood;Widowhood;Heightened risk of old age poverty;"
    },
    {
-      "Country": "Sao Tome and Principe",
-      "Riskone": "Education",
-      "Risktwo": "Adolescent motherhood",
-      "Riskthree": "Single motherhood"
+      "Country": "Sao Tome",
+      "Risks": "Barriers to girls’ education;Teenage pregnancy/adolescent motherhood;Single motherhood;"
    },
    {
       "Country": "Somalia",
-      "Riskone": "Maternity related income risks"
+      "Risks": "Maternity related income risks;"
    },
    {
       "Country": "Tanzania",
-      "Riskone": "Nonconsentual marriage",
-      "Risktwo": "Barriers to girls education",
-      "Riskthree": "Adolescent motherhood",
-      "Riskfour": "Maternity related health risks",
-      "Riskfive": "Maternity related income risks",
-      "Risksix": "Single motherhood",
-      "Riskseven": "Widowhood",
-      "Riskeight": "Senior poverty"
+      "Risks": "Child/early/forced marriage;Barriers to girls’ education;Teenage pregnancy/adolescent motherhood;Maternity related health risks;Maternity related income risks;Single motherhood;Widowhood;Heightened risk of old age poverty;"
    },
    {
       "Country": "Thailand",
-      "Riskone": "Nonconsentual marriage",
-      "Risktwo": "Maternity related income risks",
-      "Riskthree": "Single motherhood",
-      "Riskfour": "Senior poverty"
+      "Risks": "Child/early/forced marriage;Maternity related income risks;Single motherhood;Heightened risk of old age poverty;"
    },
    {
       "Country": "Turkmenistan",
-      "Riskone": "Adolescent motherhood",
-      "Risktwo": "Single motherhood",
-      "Riskthree": "Widowhood",
-      "Riskfour": "Senior poverty"
+      "Risks": "Teenage pregnancy/adolescent motherhood;Single motherhood;Widowhood;Heightened risk of old age poverty;"
    },
    {
       "Country": "Uzbekistan",
-      "Riskone": "Maternity related health risks",
-      "Risktwo": "Maternity related income risks",
-      "Riskthree": "Single motherhood",
-      "Riskfour": "Widowhood",
-      "Riskfive": "Senior poverty"
+      "Risks": "Maternity related health risks;Maternity related income risks;Single motherhood;Widowhood;Heightened risk of old age poverty;"
    },
    {
       "Country": "Vietnam",
-      "Riskone": "Nonconsentual marriage",
-      "Risktwo": "Maternity related income risks",
-      "Riskthree": "Single motherhood",
-      "Riskfour": "Widowhood",
-      "Riskfive": "Senior poverty"
+      "Risks": "Child/early/forced marriage;Maternity related income risks;Single motherhood;Widowhood;Heightened risk of old age poverty;"
    }
 ]
