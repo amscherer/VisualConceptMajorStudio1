@@ -1,0 +1,206 @@
+[
+   {
+      "Country": "Albania",
+      "Riskone": "Senior poverty",
+      "Risktwo": "Widowhood",
+      "Riskthree": "Single motherhood",
+      "Riskfour": "Maternity related income risks"
+   },
+   {
+      "Country": "Argentina",
+      "Riskone": "Education",
+      "Risktwo": "Adolescent motherhood",
+      "Riskthree": "Maternity related health risks",
+      "Riskfour": "Maternity related income risks",
+      "Riskfive": "Single motherhood"
+   },
+   {
+      "Country": "Bangladesh",
+      "Riskone": "Nonconsentual marriage",
+      "Risktwo": "Barriers to girls education",
+      "Riskthree": "Adolescent motherhood",
+      "Riskfour": "Maternity related health risks",
+      "Riskfive": "Maternity related income risks",
+      "Risksix": "Single motherhood",
+      "Riskseven": "Widowhood",
+      "Riskeight": "Senior poverty"
+   },
+   {
+      "Country": "Barbados MCO",
+      "Riskone": "Education",
+      "Risktwo": "Single motherhood",
+      "Riskthree": "Senior poverty",
+      "Riskfour": "Maternity related income risks"
+   },
+   {
+      "Country": "Brazil",
+      "Riskone": "Adolescent motherhood",
+      "Risktwo": "Maternity related health risks",
+      "Riskthree": "Single motherhood"
+   },
+   {
+      "Country": "Cambodia",
+      "Riskone": "Maternity related health risks",
+      "Risktwo": "Senior poverty"
+   },
+   {
+      "Country": "Chile",
+      "Riskone": "Senior poverty"
+   },
+   {
+      "Country": "Costa Rica",
+      "Riskone": "Education",
+      "Risktwo": "Adolescent motherhood",
+      "Riskthree": "Maternity related health risks",
+      "Riskfour": "Maternity related income risks",
+      "Riskfive": "Single motherhood",
+      "Risksix": "Senior poverty"
+   },
+   {
+      "Country": "Ecuador",
+      "Riskone": "Maternity related income risks",
+      "Risktwo": "Education",
+      "Riskthree": "Senior poverty"
+   },
+   {
+      "Country": "Gabon",
+      "Riskone": "Education",
+      "Risktwo": "Adolescent motherhood",
+      "Riskthree": "Maternity related health risks"
+   },
+   {
+      "Country": "Georgia",
+      "Riskone": "Maternity related health risks"
+   },
+   {
+      "Country": "Indonesia",
+      "Riskone": "Nonconsentual marriage",
+      "Risktwo": "Education",
+      "Riskthree": "Senior poverty"
+   },
+   {
+      "Country": "Kenya",
+      "Riskone": "Education",
+      "Risktwo": "Maternity related health risks",
+      "Riskthree": "Maternity related income risks",
+      "Riskfour": "Senior poverty"
+   },
+   {
+      "Country": "Lao PDR",
+      "Riskone": "Maternity related health risks",
+      "Risktwo": "Maternity related income risks",
+      "Riskthree": "Single motherhood"
+   },
+   {
+      "Country": "Lebanon",
+      "Riskone": "Nonconsentual marriage",
+      "Risktwo": "Education",
+      "Riskthree": "Adolescent motherhood",
+      "Riskfour": "Maternity related health risks",
+      "Riskfive": "Maternity related income risks",
+      "Risksix": "Single motherhood",
+      "Riskseven": "Widowhood",
+      "Riskeight": "Senior poverty"
+   },
+   {
+      "Country": "Malawi",
+      "Riskone": "Maternity related health risks",
+      "Risktwo": "Maternity related income risks",
+      "Riskthree": "Senior poverty"
+   },
+   {
+      "Country": "Mauritania",
+      "Riskone": "Nonconsentual marriage",
+      "Risktwo": "Education",
+      "Riskthree": "Adolescent motherhood"
+   },
+   {
+      "Country": "Mexico",
+      "Riskone": "Maternity related health risks",
+      "Risktwo": "Maternity related income risks",
+      "Riskthree": "Senior poverty"
+   },
+   {
+      "Country": "Montenegro",
+      "Riskone": "Nonconsentual marriage",
+      "Risktwo": "Maternity related health risks"
+   },
+   {
+      "Country": "Nigeria",
+      "Riskone": "Education",
+      "Risktwo": "Adolescent motherhood",
+      "Riskthree": "Maternity related health risks",
+      "Riskfour": "Maternity related income risks",
+      "Riskfive": "Single motherhood",
+      "Risksix": "Senior poverty"
+   },
+   {
+      "Country": "Philippines",
+      "Riskone": "Maternity related health risks"
+   },
+   {
+      "Country": "Republic of Congo",
+      "Riskone": "Education",
+      "Risktwo": "Single motherhood",
+      "Riskthree": "Senior poverty"
+   },
+   {
+      "Country": "Rwanda",
+      "Riskone": "Teenage pregnancy",
+      "Risktwo": "Maternity related income risks",
+      "Riskthree": "Single motherhood",
+      "Riskfour": "Widowhood",
+      "Riskfive": "Senior poverty"
+   },
+   {
+      "Country": "Sao Tome and Principe",
+      "Riskone": "Education",
+      "Risktwo": "Adolescent motherhood",
+      "Riskthree": "Single motherhood"
+   },
+   {
+      "Country": "Somalia",
+      "Riskone": "Maternity related income risks"
+   },
+   {
+      "Country": "Tanzania",
+      "Riskone": "Nonconsentual marriage",
+      "Risktwo": "Barriers to girls education",
+      "Riskthree": "Adolescent motherhood",
+      "Riskfour": "Maternity related health risks",
+      "Riskfive": "Maternity related income risks",
+      "Risksix": "Single motherhood",
+      "Riskseven": "Widowhood",
+      "Riskeight": "Senior poverty"
+   },
+   {
+      "Country": "Thailand",
+      "Riskone": "Nonconsentual marriage",
+      "Risktwo": "Maternity related income risks",
+      "Riskthree": "Single motherhood",
+      "Riskfour": "Senior poverty"
+   },
+   {
+      "Country": "Turkmenistan",
+      "Riskone": "Adolescent motherhood",
+      "Risktwo": "Single motherhood",
+      "Riskthree": "Widowhood",
+      "Riskfour": "Senior poverty"
+   },
+   {
+      "Country": "Uzbekistan",
+      "Riskone": "Maternity related health risks",
+      "Risktwo": "Maternity related income risks",
+      "Riskthree": "Single motherhood",
+      "Riskfour": "Widowhood",
+      "Riskfive": "Senior poverty"
+   },
+   {
+      "Country": "Vietnam",
+      "Riskone": "Nonconsentual marriage",
+      "Risktwo": "Maternity related income risks",
+      "Riskthree": "Single motherhood",
+      "Riskfour": "Widowhood",
+      "Riskfive": "Senior poverty"
+   }
+]
