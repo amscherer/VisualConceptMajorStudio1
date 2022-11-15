@@ -15,6 +15,10 @@ in the US that lead to decades of wealth depletion in Black communities by reser
 be better......) I'll use data from CDBG spending over the years and overlay that with historic redlining. Redlining map will remain static, and the user 
 will select years from a drop down to display an overlay of CDBG spending. 
 
+![IMG_0018](https://user-images.githubusercontent.com/88399829/201962425-6c20fc80-4924-41cb-b680-92b184270a6f.PNG)
+![IMG_0019](https://user-images.githubusercontent.com/88399829/201962456-eb656e13-7cb1-44b6-99d4-209854ec8d1f.PNG)
+![IMG_0020](https://user-images.githubusercontent.com/88399829/201962474-f764f356-e56f-44d3-8047-3a941712c704.PNG)
+
 
 
 ### Something with Public Housing Spending and Prosperity
