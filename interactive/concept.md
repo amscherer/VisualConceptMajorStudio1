@@ -4,6 +4,7 @@ The UN habitat, is a branch of the UN that focuses on helping nations develop co
 a map that they refer to as the Urban Policy Database. It's less of a database and more of an interactive map that when you click on the countries, 
 a pop-out lists information about that country's national urban policy definition. I thought it would be fun idea to take all of the definitions and do a 
 drop down viewing sort of thing so people can read through them without the interface of a map. My visual is below. 
+![IMG_0017](https://user-images.githubusercontent.com/88399829/201962138-e9163b49-0e52-42ab-a406-d5b9fad65fc9.PNG)
 
 
 ### Historic Redlining and Current Community Development Block Grant Spending in NYC
